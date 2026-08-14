@@ -48,3 +48,21 @@ The project answers questions related to:
 ## 🎯 Objective
 
 The goal of this project was to apply SQL concepts to a real-world style sales dataset and derive meaningful business insights from the data.
+
+## 📊 Key Results
+
+### Top 5 Most Ordered Pizza Types
+
+![Top 5 Most Ordered Pizza Types](Q5.png)
+
+### Distribution of Orders by Hour
+
+![Distribution of Orders by Hour](Q7.png)
+
+### Top 10 Pizza Types by Revenue Contribution
+
+![Top 10 Pizza Types by Revenue Contribution](Q11.png)
+
+### Cumulative Revenue Over Time
+
+![Cumulative Revenue Over Time](Q12.png)
