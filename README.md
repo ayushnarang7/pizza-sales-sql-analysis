@@ -44,6 +44,11 @@ The project answers questions related to:
 ## 📁 Project Files
 
 - `pizza_sales_analysis.sql` — Contains all SQL queries used for the analysis.
+- `data/` — Contains the four CSV files used for the analysis:
+  - `orders.csv`
+  - `order_details.csv`
+  - `pizzas.csv`
+  - `pizza_types.csv`
 
 ## 🎯 Objective
 
